@@ -47,7 +47,7 @@ A responsive, modern web application that showcases photography or creative port
 
 ## 👀 Website Preview  
 <a href="https://ahmed-maher77.github.io/Gallery___Professional-Image-Slider" title="demo">
-  <img src="uploaded-img-on-github-readme" alt="website preview" width="400">
+  <img src="https://github.com/user-attachments/assets/f51b6f1c-6738-4c9a-8c5f-8201c27e7423" alt="website preview - UI Mockup" width="400">
 </a>
 
 ---
@@ -62,8 +62,8 @@ A responsive, modern web application that showcases photography or creative port
    ```
    cd Gallery___Professional-Image-Slider
    ```
-3. **Open the project**
-   Simply open index.html in your browser.
+3. **Open the project** <br/>
+   Simply open ```index.html``` in your browser.
    (No build process required — pure HTML, CSS & JS project)
 
 <hr/>
